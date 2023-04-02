@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .section-padding {
+        padding: 0px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/ZNZd8eO.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/yFODZ8j.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/DJKZqMA.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image padding="0px" src="https://i.imgur.com/xEUJ6vR.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="16px 0px">
+      <mj-column padding="10px 0px" width='100%'>
+        <mj-text align="center" padding="0px" font-size="12px" font-family="Verdana,Geneva,sans-serif" color="#5d5d5d">
+          New Orleans City Park | 1 Palm Drive, New Orleans, LA 70124
+        </mj-text>
+      </mj-column>
+      <mj-column padding="10px 0px" width='100%'>
+        <mj-text align="center" padding="4px 0px" font-size="12px" font-family="Verdana,Geneva,sans-serif" color="#5d5d5d">
+          <u>Unsubscribe jobeauthement@gmail.com</u>
+        </mj-text>
+        <mj-text align="center" padding="4px 0px" font-size="12px" font-family="Verdana,Geneva,sans-serif" color="#5d5d5d">
+          <u>Update Profile</u> | <u>Constant Contact Data Notice</u>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
